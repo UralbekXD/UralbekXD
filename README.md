@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @UralbekXD;
 - 👀 I’m interested in programming.;
 - 🌱 I’m currently learning web devolopment!;
-- 📫 How to reach me on Instagram [ @uralbek_dat ];
+- 📫 You can reach me on Instagram [ @uralbek_dat ];
